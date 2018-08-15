@@ -1,10 +1,14 @@
-# 终端翻译
+# 终端翻译 
 
 # TermTrans
 to translate word in terminal
 
-
 > 在terminal下运行的翻译工具
+
+![翻译单词](http://oe3hv1l98.bkt.clouddn.com/short-trans.gif)
+
+![翻译句子](http://oe3hv1l98.bkt.clouddn.com/long-trans.gif)
+
 
 ## About it
 
