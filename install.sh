@@ -8,5 +8,6 @@ echo 'add execute permission '
 sudo chmod +x trans.py
 echo 'ln to path /usr/local/bin'
 sudo ln -s /usr/local/share/trans.sh /usr/local/bin/trans
+sudo ln -s /usr/local/share/trans.py /usr/local/bin/ltrans
 echo 'SUCCESSFUL'
 echo 'You can use trans'
