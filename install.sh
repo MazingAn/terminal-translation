@@ -1,6 +1,7 @@
 echo 'install libs'
 pip3 install requests
 pip3 install colored
+pip3 install termcolor
 echo 'copy trans.py to /usr/local/share'
 sudo cp trans.py /usr/local/share/
 sudo cp trans.sh /usr/local/share/

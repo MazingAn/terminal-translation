@@ -1,1 +1,1 @@
-/usr/bin/python3 /usr/local/share/trans.py $1
+python3 /usr/local/share/trans.py $1
